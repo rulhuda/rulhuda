@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, This is Nurul Huda
 
-<!--
 **rulhuda/rulhuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,4 +23,4 @@ All from my projects i usually upload to github. Feel free to create a pull requ
 ##- 📫 How to reach me: ...
 ##- ⚡ Fun fact: ...
 
--->
+
