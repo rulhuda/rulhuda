@@ -4,10 +4,12 @@
 
 <!-- Here are some ideas to get you started: -->
 <!-- ## Hey 👋, This is Nurul Huda -->
-[![Gmail Badge](https://img.shields.io/badge/-nurulhuda.unhasy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nurulhuda.unhasy@gmail.com)](mailto:nurulhuda.unhasy@gmail.com) [![Github Badge](https://img.shields.io/badge/-rulhuda-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rulhuda/)](https://www.github.com/rulhuda/) <p align='left'>Hi there! My name is Nurul Huda, I'm Student. I live in Jombang, East Java, Indonesia. I like to create and design websites from several programming languages ​​such as HTML, CSS, Bootstrap (CSS Framework), Javascript, PHP. 
+<!-- This is my linkedin  -->
+
+[![Gmail Badge](https://img.shields.io/badge/-nurulhuda.unhasy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nurulhuda.unhasy@gmail.com)](mailto:nurulhuda.unhasy@gmail.com) [![Github Badge](https://img.shields.io/badge/-rulhuda-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rulhuda/)](https://www.github.com/rulhuda/) <p align='left'>Hi there! My name is Nurul Huda, I'm Student. I live in Jombang, East Java, Indonesia. I like to create and design websites from several programming languages ​​such as HTML, CSS, Bootstrap (CSS Framework), Javascript, React JS, Node JS, and Prisma ORM. This is my linkedin [Linkedin](https://www.linkedin.com/in/nurulhuda-jombang) 
 
 All from my projects i usually upload to github. Feel free to create a pull request to contribute to any of my repositories.</p>
-- 🌱 I’m currently learning HTML, CSS, Bootstrap (CSS Framework), Javascript, and PHP.
+- 🌱 I’m currently learning HTML, CSS, Bootstrap (CSS Framework), Javascript, ReactJS, NodeJS, Express JS, and Prisma ORM.
 - 😄 Pronouns: He, His, Him
 - ⚡ My Hobbies is write code, web designing, and play game in free time
 
